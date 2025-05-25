@@ -149,7 +149,7 @@ FROM sightings;
 
 -- task 8 end
 
--- task 9 start
+-- task 9 star
 
 DELETE FROM rangers
 WHERE ranger_id NOT IN (
